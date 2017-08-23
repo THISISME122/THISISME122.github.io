@@ -1169,6 +1169,13 @@ pre {
 .cid-qsRITa6xA9 {
   background-image: url("../../../assets/images/fullsizeoutput-34b-1280x1280.jpg");
 }
+.cid-qsRITa6xA9 .mbr-text,
+.cid-qsRITa6xA9 .mbr-section-btn {
+  color: #ff3366;
+}
+.cid-qsRITa6xA9 H1 {
+  color: #82786e;
+}
 .cid-qsRITaOVLO {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1610,6 +1617,12 @@ pre {
 }
 .cid-qsRPS6SPvX .mbr-figure {
   margin: 0 auto;
+}
+.cid-qsRPS6SPvX H1 {
+  color: #149dcc;
+}
+.cid-qsRPS6SPvX I {
+  color: #ffffff;
 }
 .cid-qsRIT91ddd .navbar {
   padding: .5rem 0;
